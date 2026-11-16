@@ -1,0 +1,24 @@
+# Participant-level inputs and generated results are local only.
+/data/*
+!/data/README.md
+/results/
+/rawdata/
+/validation/
+*.RData
+*.rdata
+*.rds
+*.Rhistory
+.Rproj.user/
+.Renviron
+.Rprofile
+*.idat
+*.IDAT
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sas7bdat
+*.pdf
+*.png
+*.pptx
+*.docx
